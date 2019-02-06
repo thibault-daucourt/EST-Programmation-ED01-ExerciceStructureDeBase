@@ -1,4 +1,6 @@
-﻿using System;
+﻿using ExerciceStructureDeBAse.exercice;
+using ExerciceStructureDeBAse.exercices;
+using System;
 
 namespace ExerciceStructureDeBAse
 {
@@ -6,7 +8,7 @@ namespace ExerciceStructureDeBAse
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Serie3.Exercice5();
         }
     }
 }
